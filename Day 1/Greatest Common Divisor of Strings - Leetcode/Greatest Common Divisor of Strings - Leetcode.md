@@ -84,7 +84,12 @@ Input: str1 = "ABCABC", str2 = "ABC"
             }
         }
 
-
+# Output:
+<img
+  src="Output.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
 
