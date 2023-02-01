@@ -13,6 +13,7 @@ For two strings s and t, we say "t divides s" if and only if s = t + ... + t (i.
 Example 1:
 
 Input: str1 = "ABCABC", str2 = "ABC"
+
 Output: "ABC"
 
 ## My Approach:
