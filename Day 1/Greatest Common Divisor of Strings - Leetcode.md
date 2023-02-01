@@ -22,7 +22,7 @@ String = "ABAB" OR "ABABABAB" OR "ABABABABABAB"...
 
 Divisor = "AB"
         = "ABABAB"
-For the given string all the divisors are mentioned above.
+        For the given string all the divisors are mentioned above.
 
 GCD = "ABABAB"
 As it is the longest divisor for all the strings.
