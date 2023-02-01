@@ -1,3 +1,3 @@
-# 100-Days-of-Coding
+# 100DaysOfCodeChallenge
 
 Day 1 : Greatest Common Divisor of String
