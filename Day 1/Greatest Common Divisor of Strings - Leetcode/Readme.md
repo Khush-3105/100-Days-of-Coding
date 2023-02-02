@@ -8,25 +8,22 @@ Problem Link: https://leetcode.com/problems/greatest-common-divisor-of-strings/
 
 ## Problem Statement:
 
-For two strings s and t, we say "t divides s" if and only if s = t + ... + t (i.e., t is concatenated with itself one or more times). Given two strings str1 and str2, return the largest string x such that x divides both str1 and str2.
+For two strings s and t, we say "t divides s" if and only if s = t + ... + t (i.e., t is concatenated with itself one or more times).\
+Given two strings str1 and str2, return the largest string x such that x divides both str1 and str2.
 
 Example 1:
 
-Input: str1 = "ABCABC", str2 = "ABC"
+        Input: str1 = "ABCABC", str2 = "ABC"
 
-Output: "ABC"
+        Output: "ABC"
 
 ## My Approach:
 
-String = "ABAB" OR "ABABABAB" OR "ABABABABABAB"...
-
-Divisor = "AB" OR "ABABAB"
-        
-For the given string all the divisors are mentioned above.
-
-GCD = "ABABAB"
-
-As it is the longest divisor for all the strings.
+String = "ABAB" OR "ABABABAB" OR "ABABABABABAB"... \
+Divisor = "AB" OR "ABABAB" \
+For the given string all the divisors are mentioned above. \
+GCD = "ABABAB"\
+As it is the longest divisor for all the strings.\
 
 ---
 Input: str1 = "ABCABC", str2 = "ABC"
@@ -63,7 +60,7 @@ Input: str1 = "ABCABC", str2 = "ABC"
 
 
 
-# Solution (In Java):
+## Solution (In Java):
 
         class Solution {
 
@@ -84,7 +81,7 @@ Input: str1 = "ABCABC", str2 = "ABC"
             }
         }
 
-# Output:
+## Output:
 <img
   src="Output.png"
   alt="Alt text"
