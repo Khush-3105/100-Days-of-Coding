@@ -14,7 +14,6 @@ Given two strings str1 and str2, return the largest string x such that x divides
 Example 1:
 
         Input: str1 = "ABCABC", str2 = "ABC"
-
         Output: "ABC"
 
 ## My Approach:
@@ -23,8 +22,7 @@ String = "ABAB" OR "ABABABAB" OR "ABABABABABAB"... \
 Divisor = "AB" OR "ABABAB" \
 For the given string all the divisors are mentioned above. \
 GCD = "ABABAB"\
-As it is the longest divisor for all the strings.\
-
+As it is the longest divisor for all the strings.
 ---
 Input: str1 = "ABCABC", str2 = "ABC"
 
