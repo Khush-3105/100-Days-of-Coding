@@ -30,30 +30,52 @@ Example 2:
 
 ## My Approach:
 
-
-
-
+    1. Map the order od letters from  to 1 to 26
+    2. Then compare two words in a list letter by letter 
+        - current=words[i]
+        - next=words[i+1]
+        - If current[0]==next[0] then continue with next letter
+        - If they are different comapre with the letters mapped value
+        - and return accordinglt
+    3. Continue this for all the words in the string
+    4. Also need to check for the condition
+        - If the current word starts withe the next word then return false
+        - Example:
+            Input: words = ["apple","app"], order = "abcdefghijklmnopqrstuvwxyz"
+            Output: false
+            Explanation: The first three characters "app" match, and the second string is shorter (in size.) According to lexicographical rules "apple" > "app",
+            because 'l' > '∅', where '∅' is defined as the blank character which is less than any other character
 
 ## Solution (In Java):
 
-        class Solution {
+    class Solution {
+    public boolean isAlienSorted(String[] words, String order) {
+        int[] map = new int[26];
+        int seq=0;
+        for(char ch: order.toCharArray()){
+            map[ch-'a']=seq++;
+        }
 
-            public String gcdOfStrings(String str1, String str2) {
-
-                if(!(str1+str2).equals(str2+str1)) return "";
-
-                else if(str1.equals(str2)) return str1;
-
-
-                else if(str1.length()>str2.length()){
-                    return gcdOfStrings(str1.substring(str2.length()), str2 );
+        for(int i = 0; i < words.length-1;i++){
+            String current = words[i];
+            String next = words[i+1];
+            int len = Math.min(current.length(),next.length());
+            if (len!=current.length() && len==next.length() && current.startsWith(next)){
+                return false;
+            }
+            for(int l =0 ; l<len; l++){
+                
+                if (map[current.charAt(l)-'a'] > map[next.charAt(l)-'a']){
+                    return false;
                 }
-                else{
-                    return gcdOfStrings(str2.substring(str1.length()), str1 );
+                if (map[current.charAt(l)-'a'] < map[next.charAt(l)-'a']){
+                    break;
                 }
-
             }
         }
+        return true;
+       }
+    }
 
 ## Output:
 <img
