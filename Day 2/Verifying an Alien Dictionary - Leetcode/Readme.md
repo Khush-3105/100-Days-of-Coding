@@ -34,7 +34,7 @@ Example 2:
 
 
 
-# Solution (In Java):
+## Solution (In Java):
 
         class Solution {
 
@@ -55,7 +55,7 @@ Example 2:
             }
         }
 
-# Output:
+## Output:
 <img
   src="Output.png"
   alt="Alt text"
