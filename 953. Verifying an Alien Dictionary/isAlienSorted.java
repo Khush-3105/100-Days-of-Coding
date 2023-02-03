@@ -1,18 +1,28 @@
-    class Solution {
-
-        public String gcdOfStrings(String str1, String str2) {
-
-            if(!(str1+str2).equals(str2+str1)) return "";
-
-            else if(str1.equals(str2)) return str1;
-
-
-            else if(str1.length()>str2.length()){
-                return gcdOfStrings(str1.substring(str2.length()), str2 );
-            }
-            else{
-                return gcdOfStrings(str2.substring(str1.length()), str1 );
-            }
-
+class Solution {
+    public boolean isAlienSorted(String[] words, String order) {
+        int[] map = new int[26];
+        int seq=0;
+        for(char ch: order.toCharArray()){
+            map[ch-'a']=seq++;
         }
+
+        for(int i = 0; i < words.length-1;i++){
+            String current = words[i];
+            String next = words[i+1];
+            int len = Math.min(current.length(),next.length());
+            if (len!=current.length() && len==next.length() && current.startsWith(next)){
+                return false;
+            }
+            for(int l =0 ; l<len; l++){
+                
+                if (map[current.charAt(l)-'a'] > map[next.charAt(l)-'a']){
+                    return false;
+                }
+                if (map[current.charAt(l)-'a'] < map[next.charAt(l)-'a']){
+                    break;
+                }
+            }
+        }
+        return true;
     }
+}
