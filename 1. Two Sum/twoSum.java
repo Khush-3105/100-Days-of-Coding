@@ -1,18 +1,20 @@
 class Solution {
-    public String convert(String s, int numRows) {
-        if(numRows==1)return s;
-        String res="";
-        for (int r=0 ; r<numRows;r++){
-            int incre = (numRows-1)*2;
-            for (int i=r ; i<s.length(); i+=incre ){
-                res += s.charAt(i);
-                if(r>0 && r<numRows-1 && (i+incre-(2*r))<s.length()){
-                    res+=s.charAt(i+incre-(2*r));
+    public int[] twoSum(int[] nums, int target) {
+        int[] res = new int[2];
+        for (int i = 0; i < nums.length-1; i++) {
+            for (int j = i+1; j < nums.length; j++) {
+                if (nums[i] + nums[j] == target) {
+                    res[0] = i;
+                    res[1] = j;
+                    return res;
+                }
+                if (nums[nums.length - 1 - i] + nums[nums.length - 1 - j] == target) {
+                    res[0] = nums.length - 1 - i;
+                    res[1] = nums.length - 1 - j;
+                    return res;
                 }
             }
-
         }
-        return res;
-
+        return null;
     }
 }
