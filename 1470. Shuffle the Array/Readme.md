@@ -1,34 +1,22 @@
-# Problem: Zigzag Conversion
+# Problem: Shuffle the Array
 
 Platform: Leetcode
 
-Difficulty: Medium
+Difficulty: Easy
 
-Problem Link: https://leetcode.com/problems/zigzag-conversion/
+Problem Link: https://leetcode.com/problems/shuffle-the-array/
 
 ## Problem Statement:
 
-The string "PAYPALISHIRING" is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)
+Given the array nums consisting of 2n elements in the form [x1,x2,...,xn,y1,y2,...,yn].
 
-    P   A   H   N
-    A P L S I I G
-    Y   I   R
+Return the array in the form [x1,y1,x2,y2,...,xn,yn].
 
-And then read line by line: "PAHNAPLSIIGYIR"
-
-Write the code that will take a string and make this conversion given a number of rows:
-
-string convert(string s, int numRows);
- 
 Example 1:
 
-    Input: s = "PAYPALISHIRING", numRows = 4
-    Output: "PINALSIGYAHRPI"
-    Explanation:
-    P     I    N
-    A   L S  I G
-    Y A   H R
-    P     I
+    Input: nums = [2,5,1,3,4,7], n = 3
+    Output: [2,3,5,4,1,7] 
+    Explanation: Since x1=2, x2=5, x3=1, y1=3, y2=4, y3=7 then the answer is [2,3,5,4,1,7].
 
 ## My Approach:
 
