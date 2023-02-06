@@ -1,6 +1,7 @@
 # Leetcode Solutions
 
 1\. [Two Sum](/1.%20Two%20Sum)\
+4. Median of Two Sorted Arrays\
 6. [Zigzag Conversion](/6.%20Zigzag%20Conversion)\
 7. [Reverse Integer](/7.%20Reverse%20Integer)\
 9. [Palindrome Number](/9.%20Palindrome%20Number)\
