@@ -9,6 +9,7 @@
 70. [Climbing Stairs](70.%20Climbing%20Stairs)\
 438. [Find All Anagrams in a String](/438.%20Find%20All%20Anagrams%20in%20a%20String)\
 567. [Permutation in String](/567.%20Permutation%20in%20String)\
+904. [904. Fruit Into Baskets](/904.%20Fruit%20Into%20Baskets)\
 953. [Verifying an Alien Dictionary](/953.%20Verifying%20an%20Alien%20Dictionary)\
 1071. [Greatest Common Divisor of Strings](/1071.%20Greatest%20Common%20Divisor%20of%20Strings)\
 1470. [Shuffle the Array](/1470.%20Shuffle%20the%20Array)
