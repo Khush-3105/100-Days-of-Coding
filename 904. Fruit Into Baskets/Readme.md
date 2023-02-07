@@ -32,41 +32,35 @@ Example 2:
 
 ## My Approach:
 
-    1. We make a result array of size 2.
-    2. Run an outer loop i from 0 to size of nums -1.
-    3. Run an Inner loop j from i to size of nums.
-    4. Now we check if nums[i]+nums[j]== target
-        -If true we add i and j in result array and return it.
-    5. Else we also check from the end of the nums array if those are equal to target, we return those indexes.
-    Eg:
-        nums=[1,2,5,7,8,9,6,1,4]
-        target=5
-        - In step 4 we check from index 0
-            Hence nums[0]+nums[1,2,3,....]
-        - In step 5 we check from index 8
-            Hence nums[8]+nums[7,6,5,....]
+    1. We have to get max possible subarray with only two consecutive inputs.
+    2. We use hashmap to check this condition.
 
 
 ## Solution (In Java):
 
     class Solution {
-        public int[] twoSum(int[] nums, int target) {
-            int[] res = new int[2];
-            for (int i = 0; i < nums.length-1; i++) {
-                for (int j = i+1; j < nums.length; j++) {
-                    if (nums[i] + nums[j] == target) {
-                        res[0] = i;
-                        res[1] = j;
-                        return res;
-                    }
-                    if (nums[nums.length - 1 - i] + nums[nums.length - 1 - j] == target) {
-                        res[0] = nums.length - 1 - i;
-                        res[1] = nums.length - 1 - j;
-                        return res;
-                    }
+        public int totalFruit(int[] fruits) {
+            if(fruits==null || fruits.length==0) return 0;
+
+            int max = 1;
+            HashMap <Integer, Integer> map = new HashMap<Integer,Integer>();
+            int i=0,j=0;
+            while(j<fruits.length){
+                if (map.size()<=2){
+                    map.put(fruits[j],j++);
                 }
+                if(map.size()>2){
+                    int min = fruits.length-1;
+                    for (int value : map.values()){
+                        min=Math.min(min,value);
+                    }
+                    i=min+1;
+                    map.remove(fruits[min]);
+                }
+                max=Math.max(max,j-i);
             }
-            return null;
+            return max;
+            
         }
     }
 
