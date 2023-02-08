@@ -6,7 +6,7 @@
 7. [Reverse Integer](/7.%20Reverse%20Integer)\
 9. [Palindrome Number](/9.%20Palindrome%20Number)\
 13. [Roman to Integer](/13.%20Roman%20to%20Integer)\
-45. [Jump Game II](45.%20Jump%20Game%20II)
+45. [Jump Game II](45.%20Jump%20Game%20II)\
 70. [Climbing Stairs](70.%20Climbing%20Stairs)\
 438. [Find All Anagrams in a String](/438.%20Find%20All%20Anagrams%20in%20a%20String)\
 567. [Permutation in String](/567.%20Permutation%20in%20String)\
