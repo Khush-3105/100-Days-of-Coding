@@ -13,4 +13,5 @@
 904. [904. Fruit Into Baskets](/904.%20Fruit%20Into%20Baskets)\
 953. [Verifying an Alien Dictionary](/953.%20Verifying%20an%20Alien%20Dictionary)\
 1071. [Greatest Common Divisor of Strings](/1071.%20Greatest%20Common%20Divisor%20of%20Strings)\
-1470. [Shuffle the Array](/1470.%20Shuffle%20the%20Array)
+1470. [Shuffle the Array](/1470.%20Shuffle%20the%20Array)\
+2306. [Naming a Company](/2306.%20Naming%20a%20Company)
