@@ -13,6 +13,7 @@
 904. [904. Fruit Into Baskets](/904.%20Fruit%20Into%20Baskets)\
 953. [Verifying an Alien Dictionary](/953.%20Verifying%20an%20Alien%20Dictionary)\
 1071. [Greatest Common Divisor of Strings](/1071.%20Greatest%20Common%20Divisor%20of%20Strings)\
+1129. [Shortest Path with Alternating Colors](/1129.%20Shortest%20Path%20with%20Alternating%20Colors)\
 1162. [As Far from Land as Possible](/1162.%20As%20Far%20from%20Land%20as%20Possible)\
 1470. [Shuffle the Array](/1470.%20Shuffle%20the%20Array)\
 2306. [Naming a Company](/2306.%20Naming%20a%20Company)
