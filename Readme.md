@@ -16,4 +16,5 @@
 1129. [Shortest Path with Alternating Colors](/1129.%20Shortest%20Path%20with%20Alternating%20Colors)\
 1162. [As Far from Land as Possible](/1162.%20As%20Far%20from%20Land%20as%20Possible)\
 1470. [Shuffle the Array](/1470.%20Shuffle%20the%20Array)\
-2306. [Naming a Company](/2306.%20Naming%20a%20Company)
+2306. [Naming a Company](/2306.%20Naming%20a%20Company)\
+2477. [Minimum Fuel Cost to Report to the Capital](2477.%20Minimum%20Fuel%20Cost%20to%20Report%20to%20the%20Capital)
