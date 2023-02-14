@@ -6,7 +6,8 @@
 7. [Reverse Integer](/7.%20Reverse%20Integer)\
 9. [Palindrome Number](/9.%20Palindrome%20Number)\
 13. [Roman to Integer](/13.%20Roman%20to%20Integer)\
-45. [Jump Game II](45.%20Jump%20Game%20II)\
+45. [Jump Game II](/45.%20Jump%20Game%20II)\
+67. [Add Binary](/67.%20Add%20Binary)\
 70. [Climbing Stairs](70.%20Climbing%20Stairs)\
 438. [Find All Anagrams in a String](/438.%20Find%20All%20Anagrams%20in%20a%20String)\
 567. [Permutation in String](/567.%20Permutation%20in%20String)\
@@ -18,4 +19,4 @@
 1470. [Shuffle the Array](/1470.%20Shuffle%20the%20Array)\
 1523. [Count Odd Numbers in an Interval Range](/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range)\
 2306. [Naming a Company](/2306.%20Naming%20a%20Company)\
-2477. [Minimum Fuel Cost to Report to the Capital](2477.%20Minimum%20Fuel%20Cost%20to%20Report%20to%20the%20Capital)
+2477. [Minimum Fuel Cost to Report to the Capital](/2477.%20Minimum%20Fuel%20Cost%20to%20Report%20to%20the%20Capital)
