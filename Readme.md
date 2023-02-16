@@ -10,6 +10,7 @@
 50. [Pow(x, n)](/50.%20Pow(x,%20n))\
 67. [Add Binary](/67.%20Add%20Binary)\
 70. [Climbing Stairs](70.%20Climbing%20Stairs)\
+104. [Maximum Depth of Binary Tree](104.%20Maximum%20Depth%20of%20Binary%20Tree)\
 438. [Find All Anagrams in a String](/438.%20Find%20All%20Anagrams%20in%20a%20String)\
 567. [Permutation in String](/567.%20Permutation%20in%20String)\
 904. [904. Fruit Into Baskets](/904.%20Fruit%20Into%20Baskets)\
