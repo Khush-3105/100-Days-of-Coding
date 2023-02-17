@@ -13,6 +13,7 @@
 104. [Maximum Depth of Binary Tree](104.%20Maximum%20Depth%20of%20Binary%20Tree)\
 438. [Find All Anagrams in a String](/438.%20Find%20All%20Anagrams%20in%20a%20String)\
 567. [Permutation in String](/567.%20Permutation%20in%20String)\
+783. [Minimum Distance Between BST Nodes](783.%20Minimum%20Distance%20Between%20BST%20Nodes)\
 904. [904. Fruit Into Baskets](/904.%20Fruit%20Into%20Baskets)\
 953. [Verifying an Alien Dictionary](/953.%20Verifying%20an%20Alien%20Dictionary)\
 989. [Add to Array-Form of Integer](/989.%20Add%20to%20Array-Form%20of%20Integer)\
