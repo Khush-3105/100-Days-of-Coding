@@ -11,6 +11,7 @@
 67. [Add Binary](/67.%20Add%20Binary)\
 70. [Climbing Stairs](70.%20Climbing%20Stairs)\
 104. [Maximum Depth of Binary Tree](104.%20Maximum%20Depth%20of%20Binary%20Tree)\
+226. [Invert Binary Tree](226.%20Invert%20Binary%20Tree)\
 438. [Find All Anagrams in a String](/438.%20Find%20All%20Anagrams%20in%20a%20String)\
 567. [Permutation in String](/567.%20Permutation%20in%20String)\
 783. [Minimum Distance Between BST Nodes](783.%20Minimum%20Distance%20Between%20BST%20Nodes)\
