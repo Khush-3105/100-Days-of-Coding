@@ -6,6 +6,7 @@
 7. [Reverse Integer](/7.%20Reverse%20Integer)\
 9. [Palindrome Number](/9.%20Palindrome%20Number)\
 13. [Roman to Integer](/13.%20Roman%20to%20Integer)\
+35. [Search Insert Position](/35.%20Search%20Insert%20Position)\
 45. [Jump Game II](/45.%20Jump%20Game%20II)\
 50. [Pow(x, n)](/50.%20Pow(x,%20n))\
 67. [Add Binary](/67.%20Add%20Binary)\
