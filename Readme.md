@@ -23,6 +23,7 @@
 1071. [Greatest Common Divisor of Strings](/1071.%20Greatest%20Common%20Divisor%20of%20Strings)\
 1129. [Shortest Path with Alternating Colors](/1129.%20Shortest%20Path%20with%20Alternating%20Colors)\
 1162. [As Far from Land as Possible](/1162.%20As%20Far%20from%20Land%20as%20Possible)\
+1232. Check If It Is a Straight Line(1232.%20Check%20If%20It%20Is%20a%20Straight%20Line)\
 1470. [Shuffle the Array](/1470.%20Shuffle%20the%20Array)\
 1523. [Count Odd Numbers in an Interval Range](/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range)\
 2306. [Naming a Company](/2306.%20Naming%20a%20Company)\
