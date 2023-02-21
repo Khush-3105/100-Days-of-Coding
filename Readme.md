@@ -15,6 +15,7 @@
 104. [Maximum Depth of Binary Tree](104.%20Maximum%20Depth%20of%20Binary%20Tree)\
 226. [Invert Binary Tree](226.%20Invert%20Binary%20Tree)\
 438. [Find All Anagrams in a String](/438.%20Find%20All%20Anagrams%20in%20a%20String)\
+540. [Single Element in a Sorted Array](/540.%20Single%20Element%20in%20a%20Sorted%20Array)\
 567. [Permutation in String](/567.%20Permutation%20in%20String)\
 783. [Minimum Distance Between BST Nodes](783.%20Minimum%20Distance%20Between%20BST%20Nodes)\
 904. [904. Fruit Into Baskets](/904.%20Fruit%20Into%20Baskets)\
@@ -23,7 +24,7 @@
 1071. [Greatest Common Divisor of Strings](/1071.%20Greatest%20Common%20Divisor%20of%20Strings)\
 1129. [Shortest Path with Alternating Colors](/1129.%20Shortest%20Path%20with%20Alternating%20Colors)\
 1162. [As Far from Land as Possible](/1162.%20As%20Far%20from%20Land%20as%20Possible)\
-1232. Check If It Is a Straight Line(1232.%20Check%20If%20It%20Is%20a%20Straight%20Line)\
+1232. [Check If It Is a Straight Line](/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line)\
 1470. [Shuffle the Array](/1470.%20Shuffle%20the%20Array)\
 1523. [Count Odd Numbers in an Interval Range](/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range)\
 2306. [Naming a Company](/2306.%20Naming%20a%20Company)\
