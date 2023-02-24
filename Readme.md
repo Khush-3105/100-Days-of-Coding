@@ -35,5 +35,6 @@
 1232. [Check If It Is a Straight Line](/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line)\
 1470. [Shuffle the Array](/1470.%20Shuffle%20the%20Array)\
 1523. [Count Odd Numbers in an Interval Range](/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range)\
+1675. [Minimize Deviation in Array](/1675.%20Minimize%20Deviation%20in%20Array)\
 2306. [Naming a Company](/2306.%20Naming%20a%20Company)\
 2477. [Minimum Fuel Cost to Report to the Capital](/2477.%20Minimum%20Fuel%20Cost%20to%20Report%20to%20the%20Capital)
