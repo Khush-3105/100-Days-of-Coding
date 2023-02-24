@@ -7,12 +7,17 @@
 9. [Palindrome Number](/9.%20Palindrome%20Number)\
 13. [Roman to Integer](/13.%20Roman%20to%20Integer)\
 35. [Search Insert Position](/35.%20Search%20Insert%20Position)\
+42. [Trapping Rain Water](/42.%20Trapping%20Rain%20Water)\
 45. [Jump Game II](/45.%20Jump%20Game%20II)\
 50. [Pow(x, n)](/50.%20Pow(x,%20n))\
+53. [Maximum Subarray](/53.%20Maximum%20Subarray)\
+54. [Jump Game](/55.%20Jump%20Game)\
 67. [Add Binary](/67.%20Add%20Binary)\
 70. [Climbing Stairs](70.%20Climbing%20Stairs)\
 103. [Binary Tree Zigzag Level Order Traversal](/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal)\
 104. [Maximum Depth of Binary Tree](104.%20Maximum%20Depth%20of%20Binary%20Tree)\
+121. [Best Time to Buy and Sell Stock](/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)\
+189. [Rotate Array](/189.%20Rotate%20Array)\
 215. [Kth Largest Element in an Array](/215.%20Kth%20Largest%20Element%20in%20an%20Array)\
 226. [Invert Binary Tree](/226.%20Invert%20Binary%20Tree)\
 438. [Find All Anagrams in a String](/438.%20Find%20All%20Anagrams%20in%20a%20String)\
