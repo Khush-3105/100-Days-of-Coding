@@ -1,7 +1,7 @@
 # Leetcode Solutions20Shuffle
 
 1\. [Two Sum](/1.%20Two%20Sum)\
-4. Median of Two Sorted Arrays\
+4. [Median of Two Sorted Arrays](/4.%20Median%20of%20Two%20Sorted%20Arrays)\
 6. [Zigzag Conversion](/6.%20Zigzag%20Conversion)\
 7. [Reverse Integer](/7.%20Reverse%20Integer)\
 9. [Palindrome Number](/9.%20Palindrome%20Number)\
@@ -14,13 +14,16 @@
 54. [Jump Game](/55.%20Jump%20Game)\
 67. [Add Binary](/67.%20Add%20Binary)\
 70. [Climbing Stairs](70.%20Climbing%20Stairs)\
+75. [Sort Colors](/75.%20Sort%20Colors)\
 103. [Binary Tree Zigzag Level Order Traversal](/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal)\
 104. [Maximum Depth of Binary Tree](104.%20Maximum%20Depth%20of%20Binary%20Tree)\
 121. [Best Time to Buy and Sell Stock](/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)\
+153. [Find Minimum in Rotated Sorted Array](/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)\
 189. [Rotate Array](/189.%20Rotate%20Array)\
 215. [Kth Largest Element in an Array](/215.%20Kth%20Largest%20Element%20in%20an%20Array)\
 226. [Invert Binary Tree](/226.%20Invert%20Binary%20Tree)\
 438. [Find All Anagrams in a String](/438.%20Find%20All%20Anagrams%20in%20a%20String)\
+462. [Minimum Moves to Equal Array Elements II](/462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II)\
 502. [IPO](/502.%20IPO)\
 540. [Single Element in a Sorted Array](/540.%20Single%20Element%20in%20a%20Sorted%20Array)\
 567. [Permutation in String](/567.%20Permutation%20in%20String)\
