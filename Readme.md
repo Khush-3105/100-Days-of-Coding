@@ -22,11 +22,13 @@
 189. [Rotate Array](/189.%20Rotate%20Array)\
 215. [Kth Largest Element in an Array](/215.%20Kth%20Largest%20Element%20in%20an%20Array)\
 226. [Invert Binary Tree](/226.%20Invert%20Binary%20Tree)\
+278. [First Bad Version](/278.%20First%20Bad%20Version)\
 438. [Find All Anagrams in a String](/438.%20Find%20All%20Anagrams%20in%20a%20String)\
 462. [Minimum Moves to Equal Array Elements II](/462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II)\
 502. [IPO](/502.%20IPO)\
 540. [Single Element in a Sorted Array](/540.%20Single%20Element%20in%20a%20Sorted%20Array)\
 567. [Permutation in String](/567.%20Permutation%20in%20String)\
+704. [Binary Search](\704.%20Binary%20Search)\
 783. [Minimum Distance Between BST Nodes](783.%20Minimum%20Distance%20Between%20BST%20Nodes)\
 904. [904. Fruit Into Baskets](/904.%20Fruit%20Into%20Baskets)\
 953. [Verifying an Alien Dictionary](/953.%20Verifying%20an%20Alien%20Dictionary)\
