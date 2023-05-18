@@ -26,7 +26,7 @@
 438. [Find All Anagrams in a String](/438.%20Find%20All%20Anagrams%20in%20a%20String)\
 462. [Minimum Moves to Equal Array Elements II](/462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II)\
 502. [IPO](/502.%20IPO)\
-506. 
+507. 
 540. [Single Element in a Sorted Array](/540.%20Single%20Element%20in%20a%20Sorted%20Array)\
 567. [Permutation in String](/567.%20Permutation%20in%20String)\
 704. [Binary Search](\704.%20Binary%20Search)\
