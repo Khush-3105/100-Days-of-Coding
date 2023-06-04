@@ -1,6 +1,4 @@
-# Leetcode Solutions20Shuffle
-
-
+# Leetcode Solutions
 
 1\. [Two Sum](/1.%20Two%20Sum)\
 4. [Median of Two Sorted Arrays](/4.%20Median%20of%20Two%20Sorted%20Arrays)\
